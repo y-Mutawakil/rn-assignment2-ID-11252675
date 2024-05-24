@@ -10,7 +10,7 @@ export default function App() {
         backgroundColor:"#121912"
       }}
     >
-      <Text style={{color:"white"}}>Universal React with Expo</Text>
+      <Text style={{color:"white"}}>My name is YourName</Text>
     </View>
   );
 }
