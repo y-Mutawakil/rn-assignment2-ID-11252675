@@ -13,7 +13,8 @@ export default function App() {
       <Text style={{
         color:"white",
         fontSize:24
-        }}>My name is YourName</Text>
+        }}>My name is <Text style={{fontWeight:'bold'}}>Mutawakil</Text>
+      </Text>
     </View>
   );
 }
