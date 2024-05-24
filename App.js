@@ -10,7 +10,10 @@ export default function App() {
         backgroundColor:"#121912"
       }}
     >
-      <Text style={{color:"white"}}>My name is YourName</Text>
+      <Text style={{
+        color:"white",
+        fontSize:24
+        }}>My name is YourName</Text>
     </View>
   );
 }
